@@ -3,4 +3,6 @@ rencana konten komunitas uiux design
 - membuat video konten uiux
 - membuat ilustrasi 
 - membuat logo 
+  *company profile
+  *e-commerce
 - membuat akun behance
