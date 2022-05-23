@@ -2,6 +2,7 @@ rencana konten komunitas uiux design
 
 - membuat video konten uiux
 - membuat ilustrasi 
+- membuat color scheme
 - membuat logo 
   *company profile
   *e-commerce
