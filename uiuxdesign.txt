@@ -2,5 +2,5 @@ uiux design resolusi
 - membuat design yang fresh dan user friendly 
 - membuat design ui/ux yang equitable 
 - membuat color code yang bervariasi 
-- membuat komunitas
+- membuat fitur e-wallet
 - fitur pre-order
