@@ -7,4 +7,5 @@ rencana konten komunitas uiux design
   *company profile
   *e-commerce
 - membuat akun behance
-  *akun yang menarik
+  *akun yang bermanfaat
+
